@@ -1,8 +1,8 @@
-# a = "amna"
-# print(a)
+a = "amna"
+ print(a)
 
-# b = 4
-# print(b)
+ b = 4
+ print(b)
 
 # c = 6
 # print(c)
